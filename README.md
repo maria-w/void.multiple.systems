@@ -6,4 +6,4 @@ Public code for void.multiple.systems.<br/>
 * [Foundation for Sites](https://foundation.zurb.com) by [Zurb Foundation](http://zurb.com) - Version 6..<br/>
 
 **License:**<br/>
-[Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
+* [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
